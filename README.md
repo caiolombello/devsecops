@@ -10,7 +10,7 @@ DevSecOps é a prática de integrar testes de segurança em todas as etapas do p
 ## Build
 
 - [SonarQube](https://www.sonarqube.org/)
-- [OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/
+- [OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/)
 - [Snyk](https://snyk.io/)
 - [Brakeman (Ruby)](https://brakemanscanner.org/)
 - [Bandit (Python)](https://bandit.readthedocs.io/en/latest/)
