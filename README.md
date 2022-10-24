@@ -25,8 +25,9 @@ DevSecOps é a prática de integrar testes de segurança em todas as etapas do p
 
 ## Testes
 
-- [WASP ZAP](https://www.zaproxy.org/)
-- [Arachni](https://www.arachni-scanner.com/)
+- [njsscan](https://github.com/ajinabraham/njsscan) 
+- [OWASP ZAP](https://www.zaproxy.org/)
+- [Arachni](https://www.arachni-scanner.com/) 
 - [HuskyCI](https://huskyci.opensource.globo.com/docs/api/env-vars)
 - [SQLmap](https://sqlmap.org/)
 - [Nikto](https://sectools.org/tool/nikto/)
